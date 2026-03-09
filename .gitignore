@@ -6,3 +6,40 @@ __pycache__/
 
 # Jython bytecode files
 *$py.class
+
+# For Local Development
+.venv/
+.env
+.env.local
+venv/
+.env/
+.env*/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook autosave files
+*.nbconvert.ipynb
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ML models
+checkpoints/
+
+# experiment logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+tmp/
