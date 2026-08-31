@@ -1,6 +1,9 @@
 # Transforming Wearable Data into Personal Health Insights using Large Language Model Agents (PHIA)
 
 <p align="center">
+:loudspeaker: Check out the updated code for the Personal Health Agent (PHA) project <a href="https://github.com/Google-Health/consumer-health-research/tree/main/personal_health_agent">here</a>! PHA is a comprehensive, multi-agent successor to this repo's agent, PHIA, and was recently accepted as a journal article, to be published in Nature. Check out the pre-print <a href="https://arxiv.org/abs/2508.20148">here</a>. :loudspeaker:
+</p>
+<p align="center">
 :fire: Please remember to :star: this repo if you find it useful and <a href="https://github.com/yahskapar/PHIA#scroll-citation">cite</a> our work if you end up using it in your work! :fire:
 </p>
 <p align="center">
